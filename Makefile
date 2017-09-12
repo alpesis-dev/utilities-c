@@ -3,7 +3,7 @@
 # directories
 
 # project dirs
-PROJECT_DIR = project
+PROJECT_DIR = utils
 LIB_DIR = $(PROJECT_DIR)/lib
 BIN_DIR = $(PROJECT_DIR)/bin
 INC_DIR = $(PROJECT_DIR)/inc

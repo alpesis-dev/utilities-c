@@ -1,0 +1,7 @@
+# editor
+*.swo
+*.swn
+*.swp
+
+# build
+_build/*
